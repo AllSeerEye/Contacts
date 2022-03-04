@@ -5,7 +5,7 @@ Small contacts program
 ## Requirements
 * TinyDB
 
-pip3 install tinydb or pip install tinydb
+`pip install tinydb`
 
 ## Usage
 * `python3 contacts.py list` -> lists all contacts stored in database
